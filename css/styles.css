@@ -1,3 +1,24 @@
 h1{
     color: indianred;
+    text-align: center;
+    
+    text-shadow: green;
+    box-shadow: blue;
+}
+h2{
+    font-style: italic;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    line-height: 20px;
+    background: coral;
+    background-color: fuchsia;
+}
+strong{
+    font-style: italic;
+}
+em{
+    font-style: normal;
 }
